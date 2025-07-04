@@ -67,12 +67,14 @@ Se planea expandir este análisis con:
 
 ---
 
-## 📬 Contacto
+## 📬 Contactactame
 
-¿Tienes sugerencias o quieres colaborar?  
+
 🔗 [Linkedin](https://www.linkedin.com/in/emmanuel-tapia-85567932b/)  
+
 🔗 [GitHub](https://github.com/MTEmmanue)
-📧 emmanuel.tp.2024@gmail.com
+
+  📧 emmanuel.tp.2024@gmail.com
 
 ---
 
